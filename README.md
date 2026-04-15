@@ -1,56 +1,35 @@
-# 💫 About Me:
-Hi, this is Anderson 👋  <br><br>I'm a full-time student developer, focused on full-stack development and problem solving.  <br>I enjoy building projects, learning new technologies, and turning ideas into real applications.
+# 💫 About Me
+Hi, I'm Anderson 👋  
+
+I'm a student developer focused on full-stack web development and problem solving.  
+
+I enjoy building real-world projects, learning new technologies, and turning ideas into useful applications.  
+
+Currently improving my skills and building projects that can make an impact.  
+My goal is to create valuable products and eventually build a startup.
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/its.onigiri) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anderson._.ctrl) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@its_onigiri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ytriceball@gmail.com) 
-
-## 💻 Languages & Programming Skills
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind)](https://skillicons.dev)  
-
-[![My Skills](https://skillicons.dev/icons?i=php,py,cs,dotnet)](https://skillicons.dev)  
-
-[![My Skills](https://skillicons.dev/icons?i=dart,swift)](https://skillicons.dev)  
-
-[![My Skills](https://skillicons.dev/icons?i=md)](https://skillicons.dev)  
+## 🌐 Socials
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/its.onigiri) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anderson._.ctrl) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@its_onigiri) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ytriceball@gmail.com)
 
 
-## 🚀 Frameworks & Application Development
+## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=vue,react,vuetify,vite,nextjs)](https://skillicons.dev)  
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,cpp)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,flask)](https://skillicons.dev)  
+### Frameworks
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=electron,flutter)](https://skillicons.dev)  
-
-[![My Skills](https://skillicons.dev/icons?i=discordjs)](https://skillicons.dev)  
-
-
-## 🗄️ Databases
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite)](https://skillicons.dev)
-
-
-## 🛠️ Other Skills
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mongodb)](https://skillicons.dev)
 
 ### Tools
-
-[![My Skills](https://skillicons.dev/icons?i=bash,docker,figma,ps,postman,powershell,npm,yarn,pnpm,webpack,vite,wordpress)](https://skillicons.dev)
-
-
-### Development Environments
-
-[![My Skills](https://skillicons.dev/icons?i=phpstorm,eclipse,godot,sublime,vscode,visualstudio,neovim,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,postman)](https://skillicons.dev)
 
 
-### Operating Systems
-
-[![My Skills](https://skillicons.dev/icons?i=windows,apple,ubuntu)](https://skillicons.dev)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andx-Anderson/Andx-Anderson/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Andx-Anderson/Andx-Anderson/output/github-contribution-grid-snake.svg">
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/Andx-Anderson/Andx-Anderson/output/github-contribution-grid-snake.svg">
-</picture>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🐍 Contribution Graph
+![snake](https://github.com/Andx-Anderson/Andx-Anderson/blob/output/github-contribution-grid-snake.svg)
