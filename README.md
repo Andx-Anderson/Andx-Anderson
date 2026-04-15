@@ -48,12 +48,9 @@ Hi, this is Anderson 👋  <br><br>I'm a full-time student developer, focused on
 
 [![My Skills](https://skillicons.dev/icons?i=windows,apple,ubuntu)](https://skillicons.dev)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Andx-Anderson&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Andx-Anderson&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Andx-Anderson&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=Andx-Anderson&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
