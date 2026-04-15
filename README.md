@@ -49,8 +49,8 @@ Hi, this is Anderson 👋  <br><br>I'm a full-time student developer, focused on
 [![My Skills](https://skillicons.dev/icons?i=windows,apple,ubuntu)](https://skillicons.dev)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andx-Anderson/Andx-Anderson/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Andx-Anderson/Andx-Anderson/output/github-contribution-grid-snake.svg">
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/Andx-Anderson/Andx-Anderson/output/github-contribution-grid-snake.svg">
 </picture>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
