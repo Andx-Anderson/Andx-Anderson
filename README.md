@@ -30,10 +30,3 @@ My goal is to create valuable products and eventually build a startup.
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,postman)](https://skillicons.dev)
 
-
-## 🐍 Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andx-Anderson/Andx-Anderson/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Andx-Anderson/Andx-Anderson/output/github-contribution-grid-snake-light.svg">
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/Andx-Anderson/Andx-Anderson/output/github-contribution-grid-snake-dark.svg">
-</picture>
