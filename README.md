@@ -6,6 +6,7 @@ I'm a full-time student developer focused on full-stack web development and prob
 I enjoy building real-world projects, learning new technologies, and turning ideas into useful applications.  
 
 Currently improving my skills and building projects that can make an impact.  
+
 My goal is to create valuable products and eventually build a startup.
 
 
