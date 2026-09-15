@@ -1,11 +1,11 @@
 # 💫 About Me
 Hi, I'm Anderson 👋  
 
-I'm a full-time student developer focused on full-stack web development and problem-solving.  
+I'm a student developer who enjoys building things, solving problems, and figuring out how systems work.  
 
-I enjoy building real-world projects, learning new technologies, and turning ideas into useful applications.  
+Most of my work revolves around full-stack development, automation, and experimenting with new technologies.
 
-Currently improving my skills and building projects that can make an impact.  
+I learn best by building — turning ideas into real projects, breaking things, fixing them, and improving them along the way.
 
 
 
