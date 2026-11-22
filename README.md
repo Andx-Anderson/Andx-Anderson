@@ -5,9 +5,6 @@ I'm a student developer who enjoys building things, solving problems, and figuri
 
 Most of my work revolves around full-stack development, automation, and experimenting with new technologies.
 
-I learn best by building — turning ideas into real projects, breaking things, fixing them, and improving them along the way.
-
-
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/its.onigiri) 
